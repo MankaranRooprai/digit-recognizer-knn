@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c92c3e9b-6940-43e6-a4bb-29a107da5c82)# K-Nearest Neighbors (KNN) Classifier for MNIST
+# K-Nearest Neighbors (KNN) Classifier for MNIST
 
 This project implements a simple **K-Nearest Neighbors (KNN)** classifier to classify digits from the **MNIST dataset**. The MNIST dataset consists of handwritten digits (0-9) and is commonly used for training machine learning algorithms. This project demonstrates how to load the MNIST data, implement KNN, and evaluate its performance.
 
